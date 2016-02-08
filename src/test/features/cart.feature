@@ -4,7 +4,7 @@ Feature: Add to cart
 
   I want to view the contents of my bag prior to checkout
 
-  Background: Setup to test add produt to cart
+  Background: Setup to test add product to cart
     Given I am at the shop homepage
     And I head to a product page
 
